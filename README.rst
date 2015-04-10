@@ -105,4 +105,3 @@ More information
 - https://wiki.postgresql.org/wiki/Audit_trigger_91plus
 - http://kosalads.blogspot.fi/2014/06/implement-audit-functionality-in.html
 - https://github.com/2ndQuadrant/pgaudit
-
